@@ -14,16 +14,6 @@ I'm a proud student at **42 School**. Currently, I'm diving into the **Common Co
 
 ---
 
-## Creative Inspirations From Fellow 42 Profiles
-While I may be at the start of my journey, I've taken cues from some of the most creative profiles in the 42 community:
-- **Unique ASCII Art & Custom Banners:** Many students introduce their profiles with artistic banners that add personality and a personal touch.
-- **Personal Narratives & Quotes:** I love how peers articulate their passion with catchy quotes and memorable messages.
-- **Simplicity & Honesty:** The best profiles stay true to their current skills and experience—just like mine!
-
-I'm excited to incorporate similar creative touches as I continue learning and build my technical expertise.
-
----
-
 ## What I’m Learning
 Right now, my focus is on:
 - Mastering **Common Core** challenges that lay the groundwork for robust problem solving.
