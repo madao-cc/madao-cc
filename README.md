@@ -4,7 +4,7 @@
  |  _/| __ |  | (_) | (_) ||  _/\__ \ \__ \
  |_|  |_||_|   \___/ \___/ |_|  |___/ |___/
 
-# Hey there, I'm [Miguel Couceiro da Costa]!
+# Hey there, I'm Miguel Couceiro da Costa!
 
 I'm a proud student at **42 School**. Currently, I'm diving into the **Common Core** challenges and taking my first steps at **Rank_5**. Every challenge is a chance to learn, and I'm just getting started on my coding journey!
 
